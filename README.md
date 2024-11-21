@@ -1,1 +1,3 @@
 # Matlab-Codes
+Solvers created using MATLAB for numerical problems: Gaussian elimination, Muller method, bracketing method,...
+2D heated plate heat distribution simulation
